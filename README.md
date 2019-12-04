@@ -8,12 +8,8 @@
 
  :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire:
 #### How to Use
- ![pic1](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.21.52.png)
- <br/><br/>
-
- <br/><br/>
- ![pic9](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.28.11.png)
- <br/><br/>
+ ![pic1](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.21.51.png)
+ <br/><br/
 
  <br/><br/>
  ![pic10](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.28.18.png)

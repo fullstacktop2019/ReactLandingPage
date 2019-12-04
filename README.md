@@ -8,33 +8,7 @@
 
  :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire:
 #### How to Use
- ![pic1](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.21.51.png)
- <br/><br/>
-
- <br/><br/>
- ![pic2](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.21.58.png)
- <br/><br/>
-
- <br/><br/>
- ![pic3](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.22.06.png)
- <br/><br/>
-
- <br/><br/>
- ![pic4](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.22.19.png)
- <br/><br/>
-
- <br/><br/>
- ![pic5](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.22.31.png)
- <br/><br/>
- ![pic6](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.22.45.png)
- <br/><br/>
-
- <br/><br/>
- ![pic7](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.22.52.png)
- <br/><br/>
-
- <br/><br/>
- ![pic8](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.22.58.png)
+ ![pic1](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.21.52.png)
  <br/><br/>
 
  <br/><br/>

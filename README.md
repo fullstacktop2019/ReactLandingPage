@@ -10,21 +10,3 @@
 #### How to Use
  ![pic1](https://user-images.githubusercontent.com/47564047/70168175-4f3d9c80-1703-11ea-8d4e-dae6fe0d12cd.png)
  <br/><br/>
-
- <br/><br/>
- ![pic10](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.28.18.png)
- <br/><br/>
- ![pic11](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.28.25.png)
- <br/><br/>
-
- <br/><br/>
- ![pic12](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.28.32.png)
- <br/><br/>
-
- <br/><br/>
- ![pic13](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.28.46.png)
- <br/><br/>
-
- <br/><br/>
- ![pic14](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.29.04.png)
- <br/><br/>

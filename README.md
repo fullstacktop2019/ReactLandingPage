@@ -8,7 +8,7 @@
 
  :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire:
 #### How to Use
- ![pic1](https://user-images.githubusercontent.com/47564047/70167919-b60e8600-1702-11ea-9803-9b6130cac076.png)
+ ![pic1](https://user-images.githubusercontent.com/47564047/70168175-4f3d9c80-1703-11ea-8d4e-dae6fe0d12cd.png)
  <br/><br/>
 
  <br/><br/>

@@ -8,7 +8,7 @@
 
  :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire:
 #### How to Use
- ![pic1](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.21.51.png)
+ ![pic1](https://raw.githubusercontent.com/getwebem/portfolio/master/imgCover/Screen%20Shot%202017-06-28%20at%2008.21.50.png)
  <br/><br/
 
  <br/><br/>
